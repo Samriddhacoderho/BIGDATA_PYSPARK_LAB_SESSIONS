@@ -1,0 +1,13 @@
+sale_id,product,category,sale_date,region,customer,quantity,unit_price,revenue
+1,Laptop,Electronics,2024-01-05,North,Alice,2,1200.0,2400.0
+2,Phone,Electronics,2024-01-12,South,Bob,3,800.0,2400.0
+3,Tablet,Electronics,2024-02-08,East,Carol,1,600.0,600.0
+4,Headphones,Accessories,2024-02-15,West,Dan,4,150.0,600.0
+5,Monitor,Electronics,2024-03-01,North,Alice,1,400.0,400.0
+6,Keyboard,Accessories,2024-03-14,South,Eve,5,90.0,450.0
+7,Laptop,Electronics,2024-04-02,East,Frank,1,1200.0,1200.0
+8,Phone,Electronics,2024-04-20,West,Grace,2,800.0,1600.0
+9,Mouse,Accessories,2024-05-10,North,Bob,6,45.0,270.0
+10,Tablet,Electronics,2024-05-18,South,Carol,3,600.0,1800.0
+11,Monitor,Electronics,2024-06-05,East,Dan,2,400.0,800.0
+12,Keyboard,Accessories,2024-06-22,West,Eve,3,90.0,270.0
